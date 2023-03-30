@@ -1,4 +1,4 @@
-public class App3 {
+public class Tablice {
     public static void main(String[] args) {
         int wielkosc = 10;
         int[] ages = new int[wielkosc];

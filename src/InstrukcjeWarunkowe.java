@@ -1,4 +1,4 @@
-public class App4 {
+public class InstrukcjeWarunkowe {
     public static void main(String[] args) {
         int a = 10;
 
